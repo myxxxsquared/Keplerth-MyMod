@@ -1,0 +1,8 @@
+
+/mod/MyMod/Assemblies/*.dll
+/mod/MyMod/Assemblies/*.pdb
+/.history/
+/.vscode/
+/Keplerth-MyMod-Patch/bin/
+/Keplerth-MyMod-Patch/.vs/
+/Keplerth-MyMod-Patch/obj/

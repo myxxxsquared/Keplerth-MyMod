@@ -1,0 +1,60 @@
+{
+		"1001": 
+		{
+			"dropNumber": [3]
+		},
+		"1002": 
+		{
+			"dropNumber": [3]
+		},
+		"1003": 
+		{
+			"dropNumber": [3]
+		},
+		"1004": 
+		{
+			"dropNumber": [3]
+		},
+		"1005": 
+		{
+			"dropNumber": [3],
+			"miniMapColor": "#B87333"
+		},
+		"1006": 
+		{
+			"dropNumber": [3],
+			"miniMapColor": "#637492"
+		},
+		"1007": 
+		{
+			"dropNumber": [3],
+			"miniMapColor": "#C0C0C0"
+		},
+		"1008": 
+		{
+			"dropNumber": [3],
+			"miniMapColor": "#FFD700"
+		},
+		"1009": 
+		{
+			"dropNumber": [3]
+		},
+		"1010": 
+		{
+			"dropNumber": [3]
+		},
+		"1011": 
+		{
+			"dropNumber": [3]
+		},
+		"1012": 
+		{
+			"dropNumber": [3],
+			"miniMapColor": "#151716"
+		},
+		"1014": 
+		{
+			"dropNumber": [3],
+			"miniMapColor": "#515E04"
+		}
+}
